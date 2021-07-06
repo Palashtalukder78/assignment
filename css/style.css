@@ -31,6 +31,31 @@ a{
 .colorful-text{
     color: #FB8E48;
 }
+
+#menu{
+    margin: auto;
+    font-size: 34px;
+    color: #fff;
+    justify-content: center;
+}
+#menu a{
+    color:#ffffff;
+    background-color: blanchedalmond;
+    margin-right: 15px;
+    padding: 10px 20px;
+}
+#menu img{
+    margin-top: 20px;
+    width: 200px;
+    height: 92px;
+    margin-right: 15px;
+}
+hr{
+    width: 50%;
+    margin:auto;
+    border: 1px dashed orange;
+}
+
 .flexible-section{
     display: flex;
     margin-bottom: 100px;
